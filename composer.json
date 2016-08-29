@@ -1,0 +1,12 @@
+
+{
+    "name": "tetreum/apache-vhost-processor",
+    "description": "Apache VirtualHost files processor in PHP",
+    "keywords": ["apache","vhost", "virtualhost", "processor"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Apache\\Config\\": "src/"
+        }
+    }
+}
