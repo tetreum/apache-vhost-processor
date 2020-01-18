@@ -1,7 +1,7 @@
 # apache-vhost-processor  [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 Apache VirtualHost files processor (in PHP)
 
-Begin used at https://github.com/tetreum/vhostmanager
+Being used at https://github.com/tetreum/vhostmanager
 
 #### Install
 
